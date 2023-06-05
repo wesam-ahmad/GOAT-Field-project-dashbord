@@ -59,6 +59,6 @@ Contributions to the GOAT-Field project are welcome. If you would like to contri
 5. Submit a pull request describing your changes.
 
  Links:
-## ▷ [Live URL]()
+## ▷ [org repo URL](https://github.com/GOAT-Field-project)
 ## ▷ [ Wireframe & MockUp](https://www.figma.com/file/O8meLgfNfAL0btyeM3Ssrm/Untitled?type=design&node-id=0-1&t=WD2p2BpR62UGWa65-0)
 ## ▷ [Trello ](https://trello.com/b/4gtNg91V/goat-project)
